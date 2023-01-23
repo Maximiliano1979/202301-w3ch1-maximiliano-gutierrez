@@ -13,5 +13,5 @@ module.exports = {
   parserOptions: {
     ecmaVersion: "latest",
   },
-  rules: { "linebreak-style": 0 },
+  rules: {},
 };
